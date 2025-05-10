@@ -59,10 +59,13 @@
 
 
 
-update personal readme
+
 
 - 
 
 ---
 
-> _"Driven by curiosity, powered by code, inspired by science."_  
+> _"Driven by curiosity, powered by code, inspired by science."_
+
+
+update personal readme
