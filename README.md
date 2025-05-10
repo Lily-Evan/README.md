@@ -52,12 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=gruvbox" alt="Panagiota's GitHub stats"/>
 </p>
 
----
-
-### 📫 Contact
-
-- 📧 Email: **iitsbooklover@gmail.com**  
-- 📸 Bookstagram: [**@its_booklover_**](https://www.instagram.com/its_booklover_/)
+ update personal readme
 
 ---
 
